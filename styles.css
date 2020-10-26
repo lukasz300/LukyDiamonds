@@ -77,11 +77,11 @@ body {
 }
 
 .start-screen__button--is-settings {
-	background-image: url("/images/button-settings.png");
+	background-image: url("./images/button-settings.png");
 }
 
 .start-screen__button--is-settings:hover {
-	background-image: url("/images/button-settings-hover.png");
+	background-image: url("./images/button-settings-hover.png");
 }
 
 .level-select {
@@ -100,14 +100,14 @@ body {
 	margin-right: 20px;
 	border: 0;
 	font-size: 20px;
-	background-image: url("/images/levelicon.png");
+	background-image: url("/.images/levelicon.png");
 	background-size: cover;
 	background-color: transparent;
 	cursor: pointer;
 }
 
 .level-select__button:hover {
-	background-image: url("/images/leveliconhover.png");
+	background-image: url("./images/leveliconhover.png");
 }
 
 .end-screen {
